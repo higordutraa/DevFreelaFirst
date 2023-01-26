@@ -262,3 +262,7 @@ C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\obj\Debug\net6.
 C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\obj\Debug\net6.0\DevFreela.API.pdb
 C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\obj\Debug\net6.0\DevFreela.API.genruntimeconfig.cache
 C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\obj\Debug\net6.0\ref\DevFreela.API.dll
+C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
