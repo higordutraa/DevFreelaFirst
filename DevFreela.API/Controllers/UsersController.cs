@@ -1,11 +1,8 @@
 ﻿using DevFreela.API.Models;
-using DevFreela.Application.Commands.CreateComment;
 using DevFreela.Application.Commands.CreateUser;
 using DevFreela.Application.Queries.GetProjectById;
 using MediatR;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
-using RouteAttribute = Microsoft.AspNetCore.Mvc.RouteAttribute;
 
 namespace DevFreela.API.Controllers
 {

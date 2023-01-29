@@ -266,3 +266,6 @@ C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.
 C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\MediatR.dll
 C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\higor\Desktop\.NET\Projetos\DevFreela.API\DevFreela.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
