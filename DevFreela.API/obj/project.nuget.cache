@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C2UzpTy2eETEE5s6eNkhfnYya83s+GA85O/RnY7pM0ghFjLRdJtnUuneRlt1dZRzjVvqf95q74/31WNeyyEy/Q==",
+  "dgSpecHash": "pUDpRcND159T2lIKhpAageTLT837XzxRhEawnDvS9OFqozJS9bfrCAmOVWK+eY5gTfzdiT1YCXoC4psI0j5rUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\higor\\Desktop\\.NET\\Projetos\\DevFreela.API\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\higor\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\higor\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.13\\microsoft.aspnetcore.authentication.jwtbearer.6.0.13.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
